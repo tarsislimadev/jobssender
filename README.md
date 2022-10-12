@@ -20,7 +20,7 @@ Envia propostas a partir das caixas de e-mail:
 
 ## Como usar o projeto (off-line)
 
-Instalar [Docker (+ docker compose)]()
+Instalar [Docker (+ docker compose)](https://www.docker.com/)
 
 Executar:
 
@@ -32,7 +32,7 @@ Acessar `http://localhost`
 
 ## Como usar o projeto (Docker)
 
-Instalar [Docker (+ docker compose)]()
+Instalar [Docker](https://www.docker.com/)
 
 Executar:
 
