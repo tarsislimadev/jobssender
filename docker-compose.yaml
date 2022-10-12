@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  localhost:
+    build: './src/localhost'
+    ports:
+      - '80:80'
+    volumes:
+      - './src/localhost/html:/usr/share/nginx/html'
