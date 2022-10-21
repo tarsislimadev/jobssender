@@ -18,7 +18,7 @@ Envia propostas a partir das caixas de e-mail:
 - [ ] Hotmail/Outlook
 - [ ] Yahoo Mail
 
-## Como usar o projeto (off-line)
+## Como usar o projeto (localhost)
 
 Instalar [Docker (+ docker compose)](https://www.docker.com/)
 
@@ -37,7 +37,7 @@ Instalar [Docker](https://www.docker.com/)
 Executar:
 
 ```sh
-docker run --rm -p 80:80 tmvdl/jobs-search
+docker run --rm -p 80:80 tmvdl/jobssender
 ```
 
 ## License
