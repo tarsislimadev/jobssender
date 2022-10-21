@@ -1,9 +1,9 @@
 version: '3'
 
 services:
-  localhost:
-    build: './src/localhost'
+  www:
+    build: './src/www'
     ports:
       - '80:80'
     volumes:
-      - './src/localhost/html:/usr/share/nginx/html'
+      - './src/www/html:/usr/share/nginx/html'
