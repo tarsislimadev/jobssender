@@ -1,6 +1,6 @@
 # Jobs sender
 
-Encontra vagas de programação (atraves de webscraping)
+Para encontrar vagas de programação
 
 ## O projeto
 
