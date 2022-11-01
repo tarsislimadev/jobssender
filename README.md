@@ -18,19 +18,21 @@ Envia propostas a partir das caixas de e-mail:
 - [ ] Hotmail/Outlook
 - [ ] Yahoo Mail
 
-## Como usar o projeto (localhost)
+## Como usar
+
+### Em ambiente de desenvolvimento
 
 Instalar [Docker (+ docker compose)](https://www.docker.com/)
 
 Executar:
 
 ```sh
-bash ./env/development/up.sh 
+bash env/up.sh 
 ```
 
 Acessar `http://localhost`
 
-## Como usar o projeto (Docker)
+### Com Docker
 
 Instalar [Docker](https://www.docker.com/)
 
