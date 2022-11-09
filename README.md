@@ -27,12 +27,14 @@ Instalar [Docker (+ docker compose)](https://www.docker.com/)
 Executar:
 
 ```sh
+bash env/install.sh 
+
 bash env/up.sh 
 ```
 
 Acessar `http://localhost`
 
-### Com Docker
+### Docker
 
 Instalar [Docker](https://www.docker.com/)
 
